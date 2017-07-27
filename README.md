@@ -2,6 +2,9 @@
 
 Rack middleware to change temporary directory of file upload.
 
+[![Gem Version](https://badge.fury.io/rb/rack_custom_tmpdir.svg)](https://badge.fury.io/rb/rack_custom_tmpdir)
+[![Build Status](https://travis-ci.org/winebarrel/rack_custom_tmpdir.svg?branch=master)](https://travis-ci.org/winebarrel/rack_custom_tmpdir)
+
 ## Installation
 
 Add this line to your application's Gemfile:
